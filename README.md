@@ -1,5 +1,7 @@
 
-# Veterinary Application
+# Veterinary Clinic Management System 
+Capstone 1 & 2 Project
+By: Jalen-0924
 
 ## Prerequisite
 
