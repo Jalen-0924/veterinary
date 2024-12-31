@@ -145,6 +145,6 @@ NYLAS_CLIENT_ID=40e8452c-70a8-438f-b1e7-b99f52e2a0a7
 NYLAS_API_KEY=nyk_v0_o0Sd6333cMK0SL5wB9Olex4J0m78WeBkIzz3nRw0OJyXMfA73Uxls3oShcceKbJY
 NYLAS_API_URI=https://api.us.nylas.com  
 
-GOOGLE_CLIENT_ID=195156080482-vmqiog4tkmbk9h2v8aaal2p657emkcls.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
 GOOGLE_REDIRECT_URI=http://localhost/veterinary/user/google_callback
