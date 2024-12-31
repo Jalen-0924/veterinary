@@ -156,8 +156,8 @@ class Auth extends BaseController
             log_message('debug', 'Starting Google callback process');
 
             $client = new Google_Client();
-            $client->setClientId('195156080482-vmqiog4tkmbk9h2v8aaal2p657emkcls.apps.googleusercontent.com');
-            $client->setClientSecret('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');
+            $client->setClientId(("YOUR_GOOGLE_CLIENT_ID");
+            $client->setClientSecret(("YOUR_GOOGLE_CLIENT_SECRET");
             $client->setRedirectUri('http://localhost/veterinary/user/google_callback');
 
 
